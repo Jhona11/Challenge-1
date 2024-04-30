@@ -33,8 +33,11 @@ Functional Links: Ensure that all links within the website are functioning corre
 Long-Term Sustainability: Aim to improve the codebase for long-term sustainability by implementing best practices and considering future maintenance needs.
 Are you ready to dive in and optimize the marketing agency's website for accessibility? Let's get started and make the web a more inclusive space for all users!
 
-![challenge1a](https://github.com/Jhona11/MarketingWebsite/assets/150391965/00de67a7-0102-4759-a3da-459db26e5d0f)
 
-![challenge1b](https://github.com/Jhona11/MarketingWebsite/assets/150391965/7981bbe2-a0f2-4448-a6d7-2d1458b1ac25)
+![challenge1a](https://github.com/Jhona11/MarketingWebsite/assets/150391965/33f05093-cea4-44af-bdcc-1019c894d606)
 
-![challenge1c](https://github.com/Jhona11/MarketingWebsite/assets/150391965/f74b0f3b-339f-4093-90b3-58ccc35381e9)
+![challenge1b](https://github.com/Jhona11/MarketingWebsite/assets/150391965/dc85e2fa-320c-4c1c-ad31-6f2292f37ceb)
+
+![challenge1c](https://github.com/Jhona11/MarketingWebsite/assets/150391965/4484246d-e886-4299-8a2c-cb9eb184dd35)
+
+
