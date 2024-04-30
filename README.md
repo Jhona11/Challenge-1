@@ -7,7 +7,7 @@ The marketing agency website provides various features tailored to meet the need
 
 Semantic HTML Elements
 The website utilizes semantic HTML elements to enhance the structure and accessibility of the content.
-Semantic elements such as <header>, <nav>, <main>, <section>, and <footer> are used to organize the webpage's content logically.
+Semantic elements such as "header", "nav", "main", "section", and "footer" are used to organize the webpage's content logically.
 
 Logical Structure
 The HTML elements follow a logical structure independent of styling and positioning, ensuring ease of navigation and understanding.
